@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.hero-bg{
+    background-image: url('../images/home-pool.jpg');
+    background-position: 10% 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.services-bg {
+    background-image: url('../images/a-passage.jpg');
+    background-position: 10% 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.img-services{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+
+
