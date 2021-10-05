@@ -1,21 +1,25 @@
-body{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
 .hero-bg{
     background-image: url('../images/home-pool.jpg');
     background-position: 10% 50%;
-    background-size: cover;
-    background-repeat: no-repeat;
+    background-size: cover;  
 }
 
 .services-bg {
     background-image: url('../images/a-passage.jpg');
     background-position: 10% 50%;
     background-size: cover;
-    background-repeat: no-repeat;
+}
+
+.enjoy-bg{
+    background-image: url('../images/enjoy.jpg');
+    background-size: cover;
+    background-position: 10% 60%;
+}
+
+.sponsors{
+    width: 70px;
+    height: auto;
+    object-fit: cover;
 }
 
 .img-services{
